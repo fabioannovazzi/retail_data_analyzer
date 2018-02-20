@@ -13,4 +13,4 @@ Specifically, it contains three python notebooks:
 
 - the third notebook generates statistical visualizations.
 
-The plotting_guide pdf files contains (uncomplete) instructions on how to use the notebooks.
+The plotting_guide pdf file contains (uncomplete) instructions on how to use the notebooks.
