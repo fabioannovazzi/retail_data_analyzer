@@ -15,7 +15,7 @@ Specifically, it contains three python notebooks:
 
 If you run the third notebook it will automatically load a randomized dataset, and generate example charts. Please note that all values in the charts are completely random. 
 
-The plotting_guide pdf file contains instructions on how to install and use the notebooks. The pdf document does not cover all the functions provided by the notebooks 
+The plotting_guide pdf file contains instructions on how to install and use the second and third notebooks. The pdf document does not cover all the functions provided by the notebooks 
 
 
 
